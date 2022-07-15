@@ -6,6 +6,13 @@ If you're anything like me: you try to remember methodologies & techniques, and 
 
 This is a simple script that outputs cheat sheets for regularly used commands in pentesting/ctf scenarios. It can be ran without arguments, just to get easy access to copy and paste the commands, or with arguments to get those cheat sheets pre-populated with whatever target or localhost you're currently working with. This way, I don't have to repeatedly open up google and type terribly long things like 'pentest monkey reverse shell cheatsheet.' A second saved is ... *well* ... a second saved.
 
+## installation
+Put it someplace safe and don't forget to water it:
+
+```git clone https://github.com/thebriandurham/lazypeon```
+
+Protip: make an alias for it in your bashrc profile so you can run it anywhere, anytime, for fun or for not fun.
+
 ## requirements
 I tried to keep things simple and efficient. This just utilizes colorama, which my kali install had already, but yours may not so you can just run the follow command to get the requirements:
 
@@ -27,7 +34,7 @@ MIT Open Source . . . blah blah
 Feel free to modify and whatever. Credit would be nice
 
 ## adoration, questions, concerns, or hatemail?
-Direct that stuff here: twitter@mox_folder
+Direct that stuff here: twitter@mox_folder_
 
 ## ToDo
 - Clean, optimize, and comment the code (was rushing to get this out before htb's 2022 business ctf, so it's messy and uncommented)
