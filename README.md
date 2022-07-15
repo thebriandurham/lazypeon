@@ -40,3 +40,4 @@ Direct that stuff here: twitter@mox_folder_
 - Clean, optimize, and comment the code (was rushing to get this out before htb's 2022 business ctf, so it's messy and uncommented)
 - Come up with those cool icons/banners/images to put on here like all the other cool scripts have on their github repos
 - ~~Figure out the meaning of life in this vast universe~~
+- Add other useful cheat sheet generators as I can think of them/as I get annoyed of having to remember whatever commands end up in this program
