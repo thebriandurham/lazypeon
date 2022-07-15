@@ -2,7 +2,7 @@
  a basic pentesting cheat sheet generator
 
 ## about
-If you're anything like me: you try to remember methodologies & techniques, and not the 100's (1000's?, 10000's?, ...) of commands necessary during pentesting/offsec/infosec work and play. You know *how* to do what you need to, but you don't have the bandwidth to keep all of the specifics of commands, reverse shells, etc. in working memory all day. Enter: The Lazy Peon. 
+If you're anything like me: you try to remember methodologies & techniques, and not the 100's (1000's?, 10000's?, ...) of commands necessary during pentesting/offsec/infosec work and play. You know *how* to do what you need to, but you don't have the bandwidth to keep all of the specifics of commands, reverse shells, etc. in working memory all day. Enter: Lazy Peon. 
 
 This is a simple script that outputs cheat sheets for regularly used commands in pentesting/ctf scenarios. It can be ran without arguments, just to get easy access to copy and paste the commands, or with arguments to get those cheat sheets pre-populated with whatever target or localhost you're currently working with. This way, I don't have to repeatedly open up google and type terribly long things like 'pentest monkey reverse shell cheatsheet.' A second saved is ... *well* ... a second saved.
 
