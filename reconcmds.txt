@@ -1,0 +1,6 @@
+Feroxbuster,feroxbuster -u http://$HOST$:$PORT -w /usr/share/seclists/Discovery/Web-Content/raft-medium-words.txt -o fbuster.txt
+Dirbuster CLI,http://$HOST$:$PORT$ /usr/share/seclists/Discovery/Web-Content/raft-medium-words.txt  -o dirb.txt
+FFUF,ffuf -w /usr/share/seclists/Discovery/Web-Content/raft-medium-words.txt:FUZZ -u http://$HOST$:$PORT$/FUZZ
+nmap,nmap -sC -sV -oA nmapresults $HOST$ -T4
+nmap All Ports,nmap -sC -sV -p- -oA nmapresults $HOST$ -T4
+SmbClient,smbclient -L \\\\$HOST$\\

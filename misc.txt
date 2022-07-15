@@ -1,0 +1,7 @@
+Start Nessus,/bin/systemctl start nessusd.service
+Python TTY,python -c 'import pty; pty.spawn("/bin/sh")'
+Echo TTY,echo 'os.system('/bin/bash')'
+SH TTY,/bin/sh -i
+Bash TTY,/bin/bash -i
+Perl TTY,perl -e 'exec "/bin/sh";'
+Vi TTY,:!bash
