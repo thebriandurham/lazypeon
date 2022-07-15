@@ -29,7 +29,7 @@ Literally just all the reverse shells available at https://pentestmonkey.net/che
 ### Misc Commands Cheat Sheet Generator
 Miscellaneous commands/data that don't fit into the above two categories here. Fun stuff like starting up your Nessus instance. Also has a bunch of TTY spawning commands.
 
-## License
+## license
 MIT Open Source . . . blah blah
 Feel free to modify and whatever. Credit would be nice
 
