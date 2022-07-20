@@ -5,3 +5,4 @@ SH TTY,/bin/sh -i
 Bash TTY,/bin/bash -i
 Perl TTY,perl -e 'exec "/bin/sh";'
 Vi TTY,:!bash
+python -m pyftpdlib -p 21 -w
